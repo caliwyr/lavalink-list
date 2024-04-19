@@ -1,9 +1,11 @@
 ---
 title: Lavalink with SSL
 description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if you want to use the SSL lavalink you need to make sure your bot uses that protocol.
+hide:
+  - navigation
 ---
 
-<h1 style="font-family:Nunito Sans;font-size: 2.0em;font-weight: bold;color: white;">Lavalink with SSL</h1>
+<h1 style="font-family:Gotham SSm A;font-size: 2.0em;font-weight: 800;line-height:1.1;color: white;">Lavalink with SSL</h1>
 
 <!-- inject image ad -->
 <div data-ea-style="stickybox" class="dark horizontal" data-ea-publisher="darrennathanaelcom" data-ea-type="image"></div>
@@ -82,28 +84,6 @@ Port : 443
 Password : "catfein"
 Secure : true
 ```
-![Uptime](https://status.alfari.id/api/badge/28/uptime)・![Ping](https://status.alfari.id/api/badge/28/ping)・![Status](https://status.alfari.id/api/badge/28/status)
-```bash
-Host : lavalink4-frankfurt.alfari.id
-Port : 443
-Password : "catfein"
-Secure : true
-```
-![Uptime](https://status.alfari.id/api/badge/24/uptime)・![Ping](https://status.alfari.id/api/badge/24/ping)・![Status](https://status.alfari.id/api/badge/24/status)
-```bash
-Host : lavalink4-netherlands.alfari.id
-Port : 443
-Password : "catfein"
-Secure : true
-```
-![Uptime](https://status.alfari.id/api/badge/44/uptime)・![Ping](https://status.alfari.id/api/badge/44/ping)・![Status](https://status.alfari.id/api/badge/44/status)
-```bash
-Host : lavalink4-dbh.alfari.id
-Port : 443
-Password : "catfein"
-Secure : true
-```
-
 Version 3 ・[ 1 Plugins ]・[Uptime Status](https://kuma.alfari.id)・[Discord](https://discord.alfari.id)
 
 ![Uptime](https://status.alfari.id/api/badge/3/uptime)・![Ping](https://status.alfari.id/api/badge/3/ping)・![Status](https://status.alfari.id/api/badge/3/status)
@@ -113,42 +93,39 @@ Port : 443
 Password : "catfein"
 Secure : true
 ```
-![Uptime](https://status.alfari.id/api/badge/27/uptime)・![Ping](https://status.alfari.id/api/badge/27/ping)・![Status](https://status.alfari.id/api/badge/27/status)
-```bash
-Host : lavalink3-frankfurt.alfari.id
-Port : 443
-Password : "catfein"
-Secure : true
-```
-![Uptime](https://status.alfari.id/api/badge/22/uptime)・![Ping](https://status.alfari.id/api/badge/22/ping)・![Status](https://status.alfari.id/api/badge/22/status)
-```bash
-Host : lavalink3-netherlands.alfari.id
-Port : 443
-Password : "catfein"
-Secure : true
-```
-![Uptime](https://status.alfari.id/api/badge/42/uptime)・![Ping](https://status.alfari.id/api/badge/42/ping)・![Status](https://status.alfari.id/api/badge/42/status)
-```bash
-Host : lavalink3-dbh.alfari.id
-Port : 443
-Password : "catfein"
-Secure : true
-```
 
-
-### Hosted by @ [Miruku](https://github.com/sprucecellodev125/)
-Version 3.7.10
-```bash
-Host : penacony.hehe.rest
-Port : 443
-Password : "youshallnotpass"
-Secure : true
-```
 ### Hosted by @ [urfavteddybear](https://github.com/urfavteddybear/)
-Version 3.7.11
+Version 3.x
 ```bash
 Host : ll.sleepyinsomniac.eu.org
 Port : 443
 Password : "youshallnotpass"
+Secure : true
+```
+```bash
+Host : buses.sleepyinsomniac.eu.org
+Port : 443
+Password : "youshallnotpass"
+Secure : true
+```
+
+### Hosted By @ [SkyBlox Systems LTD](https://skybloxsystems.com)
+Version 3.x ・ [Uptime](https://uptime.skybloxsystems.com/status/backend) ・
+```bash
+Host : lavalink1.skybloxsystems.com
+Port : 443
+Password : "s4DarqP$&y"
+Secure : true
+```
+```bash
+Host : lavalink2.skybloxsystems.com
+Port : 443
+Password : "s4DarqP$&y"
+Secure : true
+```
+```bash
+Host : lavalinkbackup.skybloxsystems.com
+Port : 443
+Password : "s4DarqP$&y"
 Secure : true
 ```

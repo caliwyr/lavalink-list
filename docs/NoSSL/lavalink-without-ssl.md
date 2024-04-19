@@ -1,9 +1,11 @@
 ---
 title: Lavalink without SSL
 description: Without SSL should work out of the box!
+hide:
+  - navigation
 ---
 
-<h1 style="font-family:Nunito Sans;font-size: 2.0em;font-weight: bold;color: white;">Lavalink without SSL</h1>
+<h1 style="font-family:Gotham SSm A;font-size: 2.0em;font-weight: 800;line-height:1.1;color: white;">Lavalink without SSL</h1>
 
 
 <!-- inject image ad -->
@@ -112,12 +114,28 @@ Password : "youshallnotpass"
 Secure : false
 ```
 
-### Hosted by @ [bready#4772](https://riseservers.net)
-Version 4.0.0
+### Hosted by @ [sprayedza](https://riseservers.net)
+Version 4.0.4
 ```bash
-Host : us-2.riseservers.net
+Host : va-1.riseservers.net
 Port : 2333
 Password : "ilovemonkeys"
+Secure : false
+```
+### Hosted by @ [sprayedza](https://riseservers.net)
+Version 4.0.4
+```bash
+Host : ny-1.riseservers.net
+Port : 2333
+Password : "monkeysrule"
+Secure : false
+```
+### Hosted by @ [sprayedza](https://riseservers.net)
+Version 4.0.4
+```bash
+Host : tx-1.riseservers.net
+Port : 2333
+Password : "pizzaslice"
 Secure : false
 ```
 
@@ -129,6 +147,16 @@ Host : lavalink.sillydev.co.uk
 Port : 6023
 Password : "discord.gg/sillydev"
 Secure : false
+```
+
+### Hosted by @ [hanmetaforce](https://discord.gg/831)
+
+Version 4.0.4 • [5 plugin]
+```bash
+Host : 45.137.70.68
+Port : 8028
+Password : "hanmetaforce"
+Secure: false
 ```
 
 ### Hosted by @ [clxudfast](https://clxud.dev)
@@ -170,54 +198,11 @@ Port : 80
 Password : "catfein"
 Secure : false
 ```
-![Uptime](https://status.alfari.id/api/badge/29/uptime)・![Ping](https://status.alfari.id/api/badge/29/ping)・![Status](https://status.alfari.id/api/badge/29/status)
-```bash
-Host : lavalink4-frankfurt.alfari.id
-Port : 80
-Password : "catfein"
-Secure : false
-```
-![Uptime](https://status.alfari.id/api/badge/24/uptime)・![Ping](https://status.alfari.id/api/badge/24/ping)・![Status](https://status.alfari.id/api/badge/24/status)
-```bash
-Host : lavalink4-netherlands.alfari.id
-Port : 80
-Password : "catfein"
-Secure : false
-```
-![Uptime](https://status.alfari.id/api/badge/45/uptime)・![Ping](https://status.alfari.id/api/badge/45/ping)・![Status](https://status.alfari.id/api/badge/45/status)
-```bash
-Host : lavalink4-dbh.alfari.id
-Port : 80
-Password : "catfein"
-Secure : false
-```
-
 Version 3 ・[ 1 Plugins ]・[Uptime Status](https://kuma.alfari.id)・[Discord](https://discord.alfari.id)
 
 ![Uptime](https://status.alfari.id/api/badge/4/uptime)・![Ping](https://status.alfari.id/api/badge/4/ping)・![Status](https://status.alfari.id/api/badge/4/status)
 ```bash
 Host : lavalink3.alfari.id
-Port : 80
-Password : "catfein"
-Secure : false
-```
-![Uptime](https://status.alfari.id/api/badge/26/uptime)・![Ping](https://status.alfari.id/api/badge/26/ping)・![Status](https://status.alfari.id/api/badge/26/status)
-```bash
-Host : lavalink3-frankfurt.alfari.id
-Port : 80
-Password : "catfein"
-Secure : false
-```
-![Uptime](https://status.alfari.id/api/badge/22/uptime)・![Ping](https://status.alfari.id/api/badge/22/ping)・![Status](https://status.alfari.id/api/badge/22/status)
-```bash
-Host : lavalink3-netherlands.alfari.id
-Port : 80
-Password : "catfein"
-Secure : false
-```
-![Uptime](https://status.alfari.id/api/badge/43/uptime)・![Ping](https://status.alfari.id/api/badge/43/ping)・![Status](https://status.alfari.id/api/badge/43/status)
-```bash
-Host : lavalink3-dbh.alfari.id
 Port : 80
 Password : "catfein"
 Secure : false
@@ -229,4 +214,34 @@ host: lavalink.ddns.net
 port: 2433
 pass: "discord.gg/FqEQtEtUc9"
 secure: false
+```
+
+### Hosted by @ [Miruku](https://github.com/sprucecellodev125)
+Version 3.?
+```bash
+host: charmony.miruku.host
+port: 5050
+pass: youshallnotpass
+secure: false
+```
+
+### Hosted By @ [SkyBlox Systems LTD](https://skybloxsystems.com)
+Version 3.x ・ [Uptime](https://uptime.skybloxsystems.com/status/backend) ・
+```bash
+Host : 54.36.225.156
+Port : 2333
+Password : "s4DarqP$&y"
+Secure : false
+```
+```bash
+Host : 54.36.225.156
+Port : 2334
+Password : "s4DarqP$&y"
+Secure : false
+```
+```bash
+Host : 54.36.225.156
+Port : 2335
+Password : "s4DarqP$&y"
+Secure : false
 ```
